@@ -16,13 +16,13 @@ body {
 }
 
 a {
-  color: #2dc997;
+  color: #E31837;
 }
 
 a:hover,
 a:active,
 a:focus {
-  color: #2dca98;
+  color: #E31837;
   outline: none;
   text-decoration: none;
 }
@@ -79,7 +79,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #2dc997;
+  background: #E31837;
   color: #fff;
 }
 
@@ -219,13 +219,18 @@ h6 {
   border-radius: 50px;
   transition: 0.5s;
   margin: 10px;
-  border: 2px solid #2dc997;
+  border: 2px solid #E31837;
   color: black;
 }
 
 #hero .btn-get-started:hover {
-  background: #2dc997;
-  border: 2px solid #2dc997;
+  background: #E31837;
+  border: 2px solid #E31837;
+}
+
+.btn-get-started:hover {
+  background: #E31837;
+  border: 2px solid #E31837;
 }
 
 /*--------------------------------------------------------------
@@ -323,7 +328,7 @@ h6 {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #2dc997;
+  background-color: #E31837;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
@@ -561,11 +566,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   flex-direction: column;
   text-align: center;
   border-radius: 50%;
-  border: 2px solid #2dc997;
+  border: 2px solid #E31837;
 }
 
 #about .about-container .icon-box .icon i {
-  color: #2dc997;
+  color: #E31837;
   font-size: 24px;
 }
 
@@ -598,7 +603,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #facts .counters span {
   font-size: 48px;
   display: block;
-  color: #2dc997;
+  color: #E31837;
 }
 
 #facts .counters p {
@@ -654,7 +659,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-align: center;
   width: 72px;
   height: 72px;
-  background: #2dc997;
+  background: #E31837;
 }
 
 #services .icon a {
