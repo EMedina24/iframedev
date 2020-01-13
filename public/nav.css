@@ -1,0 +1,56 @@
+.btn{
+    
+    text-align: center !important; 
+    font-weight: 300 !important;
+    
+
+
+}
+
+.navbar{
+   
+}
+
+
+.navbar-brand img{
+   /***** position: fixed; *****/    /***** overlapse logo with header img however its fixed meaning it will follow on scroll ****/
+    
+}
+
+@media only screen and (max-width: 600px) {
+    
+    
+    
+    .nav-item-button {
+        padding-top: 19px;
+        padding-left: 20px;
+    }
+
+    
+
+  }
+
+
+
+
+
+
+
+.nav-item-button{
+    padding-top: 19px;
+    padding-left:200px;
+
+
+}
+
+.nav-item{
+    padding: 20px;
+}
+
+.nav-item a:hover{
+    color: rgb(82, 82, 219) !important;
+} 
+
+.nav-item a:active{
+    color: rgb(82, 82, 219) !important;  /***********Attempting to emulate the active link color from the PSD******/
+} 

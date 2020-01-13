@@ -1,0 +1,40 @@
+
+*{
+  font-family: "Roboto",Verdana,"Helvetica Neue",Helvetica,Arial,sans-serif !important
+}
+
+.jumbotron{
+  background: url('Hero-Case.png');
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 600px;
+  text-align: center;
+  color: white;
+  font-family: "Roboto",Verdana,"Helvetica Neue",Helvetica,Arial,sans-serif
+}
+
+p{
+  font-size: 15px !important;
+}
+
+a{
+  font-family: 'Roboto', sans-serif !important;
+}
+
+.d-flex{
+  text-align: left !important;
+  color:#8f8f8f;
+}
+
+h3{
+  text-align: left !important;
+}
+
+.faq{
+  
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%
+  
+}
